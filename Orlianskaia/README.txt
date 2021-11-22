@@ -11,5 +11,7 @@ In python terminal use command:
 3. Generate test report: allure serve report
 4. Click on link and enjoy your test report!
 
+.
+
 
 
