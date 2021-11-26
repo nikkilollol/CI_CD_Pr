@@ -1,7 +1,7 @@
 import pyodbc
 
 con = pyodbc.connect(
-    "Driver={SQL Server Native Client 11.0};"
+    "Driver={ODBC Driver 17 for SQL Server};"
     "Server=EPRUPETW054C\SQLEXPRESS01;"
     "Database=TRN;"
     "Trusted_Connection=yes;"
